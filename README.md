@@ -32,7 +32,7 @@ Protocols
   - [JMRI LocoNet](https://github.com/JMRI/JMRI/tree/master/java/src/jmri/jmrix/loconet)
     * [Loconet Message Interpreter](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/messageinterp/LocoNetMessageInterpret.java)
   - [RocRail LocoNet](https://github.com/schelli04/Rocrail/blob/master/rocdigs/impl/loconet/lnmaster.c#L94)
-* Command Stationn
+* Custom Command Stations
   - [IoTT](https://github.com/tanner87661/IoTTStick)
   - [LocoNet Control Station](https://github.com/positron96/LocoNetControlStation)
 
