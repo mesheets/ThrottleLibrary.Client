@@ -22,9 +22,13 @@ Protocols
   - [srcp-rs](https://github.com/cbiever/srcp-rs/blob/master/docs/index.md)
   - [Gember](https://cbiever.github.io/gember/)
 * [DCC++ EX](https://dcc-ex.com/reference/)
-  - [Command Summary](https://dcc-ex.com/reference/software/command-summary.html)
-  - [Command Reference](https://dcc-ex.com/reference/software/command-reference.html)
-  - [Technical Reference for Throttle Developers](https://dcc-ex.com/throttles/tech-reference.html)
+  - Documentation
+    + [Command Summary](https://dcc-ex.com/reference/software/command-summary.html)
+    + [Command Reference](https://dcc-ex.com/reference/software/command-reference.html)
+    + [Technical Reference for Throttle Developers](https://dcc-ex.com/throttles/tech-reference.html)
+  - Examples
+    + [DCC++ EX Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/DCCEXParser.cpp)
+    + [WiThrottle Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/WiThrottle.cpp)
 * LocoNet
   - [Digitrax LocoNet Protocol Documentation](https://www.digitrax.com/static/apps/cms/media/documents/loconet/loconetpersonaledition.pdf)
   - [LocoNet Library](https://github.com/mrrwa/LocoNet/blob/master/LocoNet.cpp)
@@ -33,7 +37,7 @@ Protocols
   - [LNetDCCpp (DCC++ command station with added Loconet support)](https://github.com/ClubNCaldes/LNetDCCpp/blob/master/BaseStation-1.2.1/DCCpp_Uno/LNetCmdStation.cpp)
   - [DCCSpider (uses Loconet to communicate with throttles and boosters)](https://github.com/orvio/DCCSpider/blob/145169c551c3dc0e245eefe44c2b87bc678494df/LoconetMaster.cpp#L71)
   - [JMRI LocoNet](https://github.com/JMRI/JMRI/tree/master/java/src/jmri/jmrix/loconet)
-    * [Loconet Message Interpreter](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/messageinterp/LocoNetMessageInterpret.java)
+    + [Loconet Message Interpreter](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/messageinterp/LocoNetMessageInterpret.java)
   - [RocRail LocoNet](https://github.com/schelli04/Rocrail/blob/master/rocdigs/impl/loconet/lnmaster.c#L94)
 * Command Stations
   - [DCC++ EX](https://dcc-ex.com/)
@@ -42,3 +46,9 @@ Protocols
 
 
 Langauge: [Haxe](https://haxe.org/)
+* [Try](https://try.haxe.org/)
+* Setup
+  - [Haxe C# Backend](https://lib.haxe.org/p/hxcs)
+  - [Target .NET Core 2.1 for .NET Standard 2.0 Compatibility](https://devblogs.microsoft.com/dotnet/announcing-net-standard-2-1/)
+* Components
+  - [Task Library: hxbolts](https://lib.haxe.org/p/hxbolts/)
