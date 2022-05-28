@@ -39,6 +39,9 @@ Protocols
   - [JMRI LocoNet](https://github.com/JMRI/JMRI/tree/master/java/src/jmri/jmrix/loconet)
     + [Loconet Message Interpreter](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/messageinterp/LocoNetMessageInterpret.java)
   - [RocRail LocoNet](https://github.com/schelli04/Rocrail/blob/master/rocdigs/impl/loconet/lnmaster.c#L94)
+* XpressNet
+  - [Documentation (German)](https://www.lenz-elektronik.de/src/pdf/Lenz_XpressNet_Doku.pdf)
+  - [XpressnetLib (.NET binary)](http://xpressnetlib.brozek.org/)
 * [Z21](https://www.z21.eu/media/Kwc_Basic_DownloadTag_Component/root-en-main_47-1652-959-downloadTag-download/default/d559b9cf/1646977702/z21-lan-protokoll-en.pdf) (from [Manuals Page](https://www.z21.eu/en/downloads/manuals))
 * Command Stations
   - [DCC++ EX](https://dcc-ex.com/)
