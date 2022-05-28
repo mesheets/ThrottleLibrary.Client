@@ -2,8 +2,8 @@
  A client library for working with model railroad protocols, such as SRCP and WiThrottle.
 
 
-### Development References
-Protocols
+## References
+### Protocols
 * [WiThrottle](https://www.jmri.org/help/en/package/jmri/jmrit/withrottle/Protocol.shtml)
   - [WiThrottleProtocol](https://github.com/flash62au/WiThrottleProtocol)  (more advanced fork)
   - [WiThrottleProtocol](https://github.com/davidzuhn/WiThrottleProtocol)  (original repository)
@@ -43,13 +43,31 @@ Protocols
   - [Documentation (German)](https://www.lenz-elektronik.de/src/pdf/Lenz_XpressNet_Doku.pdf)
   - [XpressnetLib (.NET binary)](http://xpressnetlib.brozek.org/)
 * [Z21](https://www.z21.eu/media/Kwc_Basic_DownloadTag_Component/root-en-main_47-1652-959-downloadTag-download/default/d559b9cf/1646977702/z21-lan-protokoll-en.pdf) (from [Manuals Page](https://www.z21.eu/en/downloads/manuals))
-* Command Stations
-  - [DCC++ EX](https://dcc-ex.com/)
-  - [IoTT](https://github.com/tanner87661/IoTTStick)
-  - [LocoNet Control Station](https://github.com/positron96/LocoNetControlStation)
 
+&nbsp;
 
-Langauge: [Haxe](https://haxe.org/)
+### Open Source Software and Command Stations
+* [JMRI](https://jmri.org/)
+* [DCC++ EX](https://dcc-ex.com/)
+* [IoTT](https://github.com/tanner87661/IoTTStick)
+* [LocoNet Control Station](https://github.com/positron96/LocoNetControlStation)
+
+### Free (but Closed Source) Software
+* [Railroad Automation (RRA)](https://www.perecli.com/rrauto/)
+  + Currnetly only supports LocoNet
+  + Does provide .NET libraries that can be used to create your own implementations and customizations
+* [Rocrail](https://rocrail.net/)
+  + Formerly Open Source, then went closed source
+  + Some functionality now only available via an [annual subscription fee](https://wiki.rocrail.net/doku.php?id=donate-en)
+
+### Commercial Multi-Protocol Command Stations
+* [Digikeijs DR5000](https://www.digikeijs.com/en/dr5000-dcc-multi-bus-central.html)
+  + [Product Information](https://www.ironplanethobbies.com/product/digikeijs-dr5000-15v-command-station-booster-throttle-32-channel-detection-mid-set/)
+  + [Wiki: Capabilities and Limitations](https://www.ironplanethobbies.com/digikeijs-dr5000-wiki/)
+
+&nbsp;
+
+## Langauge: [Haxe](https://haxe.org/)
 * [Try](https://try.haxe.org/)
 * Setup
   - [Haxe C# Backend](https://lib.haxe.org/p/hxcs)
