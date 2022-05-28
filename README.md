@@ -37,7 +37,8 @@
   - [LNetDCCpp (DCC++ command station with added Loconet support)](https://github.com/ClubNCaldes/LNetDCCpp/blob/master/BaseStation-1.2.1/DCCpp_Uno/LNetCmdStation.cpp)
   - [DCCSpider (uses Loconet to communicate with throttles and boosters)](https://github.com/orvio/DCCSpider/blob/145169c551c3dc0e245eefe44c2b87bc678494df/LoconetMaster.cpp#L71)
   - [JMRI LocoNet](https://github.com/JMRI/JMRI/tree/master/java/src/jmri/jmrix/loconet)
-    + [Loconet Message Interpreter](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/messageinterp/LocoNetMessageInterpret.java)
+    + [LocoNet Constants/OpCodes](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/LnConstants.java)
+    + [LocoNet Message Interpreter](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/messageinterp/LocoNetMessageInterpret.java)
   - [RocRail LocoNet](https://github.com/schelli04/Rocrail/blob/master/rocdigs/impl/loconet/lnmaster.c#L94)
 * XpressNet
   - [Documentation (German)](https://www.lenz-elektronik.de/src/pdf/Lenz_XpressNet_Doku.pdf)
