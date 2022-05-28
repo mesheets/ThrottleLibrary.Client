@@ -30,6 +30,7 @@
     + [DCC++ EX Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/DCCEXParser.cpp)
     + [WiThrottle Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/WiThrottle.cpp)
 * LocoNet
+  - [Digitrax LocoNet Architecture](https://www.digitrax.com/support/loconet/home/)
   - [Digitrax LocoNet Protocol Documentation](https://www.digitrax.com/static/apps/cms/media/documents/loconet/loconetpersonaledition.pdf)
   - [LocoNet Library](https://github.com/mrrwa/LocoNet/blob/master/LocoNet.cpp)
   - [Loconet2 Library (Development Branch)](https://github.com/mrrwa/LocoNet2/tree/development)
