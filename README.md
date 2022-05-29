@@ -70,6 +70,15 @@
 
 &nbsp;
 
+## Alternative Decoders
+### WiFi Decoders
+* [WifiTrax](http://www.wifitrax.com/): Control a locomotive directly over WiFi via WiThrottle
+
+### Bluetooth Decoders
+* [BlueRail Trains](https://bluerailtrains.com/): Control a locomotive directly over Bluetooth via a custom app (currently iOS only)
+
+&nbsp;
+
 ## Langauge: [Haxe](https://haxe.org/)
 * [Try](https://try.haxe.org/)
 * Setup
