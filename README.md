@@ -60,6 +60,7 @@
   + Does provide .NET libraries that can be used to create your own implementations and customizations
 * [Rocrail](https://rocrail.net/)
   + Formerly Open Source, then went closed source
+  + Repo [moritzmhmk/Rocrail](https://github.com/moritzmhmk/Rocrail) appears to be the most advanced fork before Rocrail went closed source
   + Some functionality now only available via an [annual subscription fee](https://wiki.rocrail.net/doku.php?id=donate-en)
 
 ### Commercial Multi-Protocol Command Stations
