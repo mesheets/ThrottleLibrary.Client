@@ -79,6 +79,7 @@
 
 ### Electronics
 * [Azatrax](https://www.azatrax.com/): Exhibit controllers and sensors
+* [Iowa Scaled Engineering](https://www.iascaled.com/): ProtoThrottle, sensors, and exhibit controller
 * [Model Train Technology](https://modeltraintechnology.com/): Lighting and sensors
   + [Passenger Car Lighting](https://modeltraintechnology.com/wp-content/uploads/HO-scale-LED-Board-wt-Decoder-7-12-192mm-2000-4.jpg)
 
