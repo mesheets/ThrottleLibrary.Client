@@ -70,12 +70,17 @@
 
 &nbsp;
 
-## Alternative Decoders
+## Alternative Decoders and Electronics
 ### WiFi Decoders
 * [WifiTrax](http://www.wifitrax.com/): Control a locomotive directly over WiFi via WiThrottle
 
 ### Bluetooth Decoders
 * [BlueRail Trains](https://bluerailtrains.com/): Control a locomotive directly over Bluetooth via a custom app (currently iOS only)
+
+### Electronics
+* [Azatrax](https://www.azatrax.com/): Exhibit controllers and sensors
+* [Model Train Technology](https://modeltraintechnology.com/): Lighting and sensors
+  + [Passenger Car Lighting](https://modeltraintechnology.com/wp-content/uploads/HO-scale-LED-Board-wt-Decoder-7-12-192mm-2000-4.jpg)
 
 &nbsp;
 
