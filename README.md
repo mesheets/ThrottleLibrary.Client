@@ -58,6 +58,7 @@
 * [LocoNet Control Station](https://github.com/positron96/LocoNetControlStation)
 * [DCC Lite](https://github.com/bcsanches/DCCLite/): Includes [LocoNet to WiThrottle Bridge](https://groups.io/g/jmriusers/message/204985)
 * [LocoDuino](https://www.locoduino.org/) ([Google Translate](https://www-locoduino-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp))
+* [Atanisoft ESP32 Command Station](https://github.com/atanisoft/ESP32CommandStation): Supports LCC
 
 ### Free (but Closed Source) Software
 * [Railroad Automation (RRA)](https://www.perecli.com/rrauto/)
