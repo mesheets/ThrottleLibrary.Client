@@ -53,6 +53,8 @@
 * [DCC++ EX](https://dcc-ex.com/)
 * [IoTT](https://github.com/tanner87661/IoTTStick)
 * [LocoNet Control Station](https://github.com/positron96/LocoNetControlStation)
+* [DCC Lite](https://github.com/bcsanches/DCCLite/): Includes [LocoNet to WiThrottle Bridge](https://groups.io/g/jmriusers/message/204985)
+* [LocoDuino](https://www.locoduino.org/) ([Google Translate](https://www-locoduino-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp))
 
 ### Free (but Closed Source) Software
 * [Railroad Automation (RRA)](https://www.perecli.com/rrauto/)
@@ -67,6 +69,9 @@
 * [Digikeijs DR5000](https://www.digikeijs.com/en/dr5000-dcc-multi-bus-central.html)
   + [Product Information](https://www.ironplanethobbies.com/product/digikeijs-dr5000-15v-command-station-booster-throttle-32-channel-detection-mid-set/)
   + [Wiki: Capabilities and Limitations](https://www.ironplanethobbies.com/digikeijs-dr5000-wiki/)
+  + No plans to support LCC
+* [Z21](https://www.z21.eu/en)
+* [TCS DCC](https://tcsdcc.com/commandstation)
 
 &nbsp;
 
@@ -76,6 +81,9 @@
 
 ### Bluetooth Decoders
 * [BlueRail Trains](https://bluerailtrains.com/): Control a locomotive directly over Bluetooth via a custom app (currently iOS only)
+
+### RF Decoders
+* [Ring Engineering RailPro](https://www.ringengineering.com/RailPro.htm): Control a locomotive using special RF throttles and decoders
 
 ### Electronics
 * [Azatrax](https://www.azatrax.com/): Exhibit controllers and sensors
