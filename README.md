@@ -30,12 +30,15 @@
     + [DCC++ EX Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/DCCEXParser.cpp)
     + [WiThrottle Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/WiThrottle.cpp)
 * LocoNet
-  - [Digitrax LocoNet Architecture](https://www.digitrax.com/support/loconet/home/)
-  - [Digitrax LocoNet Protocol Documentation](https://www.digitrax.com/static/apps/cms/media/documents/loconet/loconetpersonaledition.pdf)
-  - [LocoNet Library](https://github.com/mrrwa/LocoNet/blob/master/LocoNet.cpp)
-  - [Loconet2 Library (Development Branch)](https://github.com/mrrwa/LocoNet2/tree/development)
-  - [LNetSerialMaster (based in part on RocRail)](https://github.com/habazut/LNetSerialMaster)
-  - [LNetDCCpp (DCC++ command station with added Loconet support)](https://github.com/ClubNCaldes/LNetDCCpp/blob/master/BaseStation-1.2.1/DCCpp_Uno/LNetCmdStation.cpp)
+  + Licensing and Documentation
+    - [Digitrax LocoNet Architecture](https://www.digitrax.com/support/loconet/home/)
+    - [Digitrax LocoNet Protocol Documentation](https://www.digitrax.com/static/apps/cms/media/documents/loconet/loconetpersonaledition.pdf)
+    - [Licensing and Licensees](https://www.digitrax.com/support/loconet/loconet-licensees/)
+  - Projects
+    + [LocoNet Library](https://github.com/mrrwa/LocoNet/blob/master/LocoNet.cpp)
+    + [Loconet2 Library (Development Branch)](https://github.com/mrrwa/LocoNet2/tree/development)
+    + [LNetSerialMaster (based in part on RocRail)](https://github.com/habazut/LNetSerialMaster)
+    + [LNetDCCpp (DCC++ command station with added Loconet support)](https://github.com/ClubNCaldes/LNetDCCpp/blob/master/BaseStation-1.2.1/DCCpp_Uno/LNetCmdStation.cpp)
   - [DCCSpider (uses Loconet to communicate with throttles and boosters)](https://github.com/orvio/DCCSpider/blob/145169c551c3dc0e245eefe44c2b87bc678494df/LoconetMaster.cpp#L71)
   - [JMRI LocoNet](https://github.com/JMRI/JMRI/tree/master/java/src/jmri/jmrix/loconet)
     + [LocoNet Constants/OpCodes](https://github.com/JMRI/JMRI/blob/master/java/src/jmri/jmrix/loconet/LnConstants.java)
@@ -72,6 +75,7 @@
   + No plans to support LCC
 * [Z21](https://www.z21.eu/en)
 * [TCS DCC](https://tcsdcc.com/commandstation)
+  + Reported that Digitrax [denied them a LocoNet license](https://groups.io/g/jmriusers/message/204987)
 
 &nbsp;
 
@@ -88,6 +92,7 @@
 ### Electronics
 * [Azatrax](https://www.azatrax.com/): Exhibit controllers and sensors
 * [Iowa Scaled Engineering](https://www.iascaled.com/): ProtoThrottle, sensors, and exhibit controller
+  + Reported that Digitrax [denied them a LocoNet license](https://groups.io/g/jmriusers/message/204987)
 * [Model Train Technology](https://modeltraintechnology.com/): Lighting and sensors
   + [Passenger Car Lighting](https://modeltraintechnology.com/wp-content/uploads/HO-scale-LED-Board-wt-Decoder-7-12-192mm-2000-4.jpg)
 
