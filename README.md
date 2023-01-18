@@ -5,10 +5,11 @@
 ## References
 ### Protocols
 * [WiThrottle](https://www.jmri.org/help/en/package/jmri/jmrit/withrottle/Protocol.shtml)
-  - [WiThrottleProtocol](https://github.com/flash62au/WiThrottleProtocol)  (more advanced fork)
-  - [WiThrottleProtocol](https://github.com/davidzuhn/WiThrottleProtocol)  (original repository)
+  - [WiThrottleProtocol C++ Library](https://github.com/flash62au/WiThrottleProtocol)  (more advanced fork)
+  - [WiThrottleProtocol C++ Library](https://github.com/davidzuhn/WiThrottleProtocol)  (original repository)
   - [PiThrottle](https://github.com/dpcryer/pithrottle/blob/master/pithrottle.py)
   - [LocoNetControlStation](https://github.com/positron96/LocoNetControlStation)
+  - __[PyWiThrottle Python Library](https://github.com/modelrailwaysascode/pywithrottle)__
 * [SRCP](http://srcpd.sourceforge.net/srcp/)
   - [Android SRCP Client](https://github.com/upost/Signalbox)
   - [Android SRCP Client](https://github.com/srsoftware-de/SRCPC)
@@ -48,6 +49,8 @@
   - [Documentation (German)](https://www.lenz-elektronik.de/src/pdf/Lenz_XpressNet_Doku.pdf)
   - [XpressnetLib (.NET binary)](http://xpressnetlib.brozek.org/)
 * [Z21](https://www.z21.eu/media/Kwc_Basic_DownloadTag_Component/root-en-main_47-1652-959-downloadTag-download/default/d559b9cf/1646977702/z21-lan-protokoll-en.pdf) (from [Manuals Page](https://www.z21.eu/en/downloads/manuals))
+  - __[z21-Drive Java API](https://github.com/grizeldi/z21-drive)__
+  - [z21 Typescript Client Library](https://github.com/jormc/z21)
 
 &nbsp;
 
@@ -77,6 +80,16 @@
 * [Z21](https://www.z21.eu/en)
 * [TCS DCC](https://tcsdcc.com/commandstation)
   + Reported that Digitrax [denied them a LocoNet license](https://groups.io/g/jmriusers/message/204987)
+
+### Throttles (mostly closed source)
+#### Android
+* [Engine Driver](https://enginedriver.mstevetodd.com/)
+  - [Source Code](https://github.com/JMRI/EngineDriver)
+* [DCC Throttle](https://www.alfray.com/trains/cab_app.html)
+
+#### iOS
+* [SRCP Client by IO-Expert](https://www.io-expert.com/srcpclientios/) (also supports z21 and DCC++ EX protocols)
+* [Train Driver by IO-Expert](https://io-expert.com/traindriver/) (also supports z21 and DCC++ EX protocols)
 
 &nbsp;
 
