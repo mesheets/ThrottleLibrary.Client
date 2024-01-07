@@ -62,11 +62,11 @@
 * [DCC Lite](https://github.com/bcsanches/DCCLite/): Includes [LocoNet to WiThrottle Bridge](https://groups.io/g/jmriusers/message/204985)
 * [LocoDuino](https://www.locoduino.org/) ([Google Translate](https://www-locoduino-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp))
 * [Atanisoft ESP32 Command Station](https://github.com/atanisoft/ESP32CommandStation): Supports LCC
+* [Railroad Automation (RRA)](https://www.perecli.com/rrauto/) ([GitHub Repository](https://github.com/Perecli/RRAuto))
+  + Currnetly only supports LocoNet via serial (or serial over USB) connections (no LbServer support)
+  + Does provide .NET libraries that can be used to create your own implementations and customizations
 
 ### Free (but Closed Source) Software
-* [Railroad Automation (RRA)](https://www.perecli.com/rrauto/)
-  + Currnetly only supports LocoNet
-  + Does provide .NET libraries that can be used to create your own implementations and customizations
 * [Rocrail](https://rocrail.net/)
   + Formerly Open Source, then went closed source
   + Repo [moritzmhmk/Rocrail](https://github.com/moritzmhmk/Rocrail) appears to be the most advanced fork before Rocrail went closed source
@@ -82,6 +82,9 @@
   + Reported that Digitrax [denied them a LocoNet license](https://groups.io/g/jmriusers/message/204987)
 
 ### Throttles (mostly closed source)
+#### Windows
+* [Train Throttle](https://apps.microsoft.com/detail/9NBLGGH4VF5J)
+
 #### Android
 * [Engine Driver](https://enginedriver.mstevetodd.com/)
   - [Source Code](https://github.com/JMRI/EngineDriver)
