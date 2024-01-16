@@ -1,12 +1,13 @@
 # ThrottleLibrary.Client
- A client library for working with model railroad protocols, such as SRCP and WiThrottle.
+ A client library for working with model railroad protocols, such as DCC++EX, SRCP, LocoNet, and WiThrottle.
 
 
 ## References
 ### Protocols
 * [WiThrottle](https://www.jmri.org/help/en/package/jmri/jmrit/withrottle/Protocol.shtml)
   + [WiThrottleProtocol C++ Library](https://github.com/flash62au/WiThrottleProtocol)  (more advanced fork)
-  + [WiThrottleProtocol C++ Library](https://github.com/davidzuhn/WiThrottleProtocol)  (original repository)
+    - [WiThrottleProtocol C++ Library](https://github.com/davidzuhn/WiThrottleProtocol)  (original repository)
+    - [Heart of the protocol command processing](https://github.com/mesheets/WiThrottleProtocol-Cpp/blob/3964b93098710d8d9ede280e4f7e999f1425b233/src/WiThrottleProtocol.cpp#L343)  (local fork)
   + [PiThrottle](https://github.com/dpcryer/pithrottle/blob/master/pithrottle.py)
   + [LocoNetControlStation](https://github.com/positron96/LocoNetControlStation)
   + __[PyWiThrottle Python Library](https://github.com/modelrailwaysascode/pywithrottle)__
@@ -62,6 +63,11 @@
 * [JMRI](https://jmri.org/)
 * [DCC++ EX](https://dcc-ex.com/)
 * [IoTT](https://github.com/tanner87661/IoTTStick)
+  + Many designes largely built around the [M5Stack M5StickC](https://shop.m5stack.com/products/stick-c?variant=43982750843137)…
+  + …which is itself basd on the [Espressif ESP32](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/core/esp32-pico-d4_datasheet_en.pdf)
+  + Grove connector on one end; for interfacing with Arduino or similar, jumper cables might be useful
+    - [4-pin male](https://www.seeedstudio.com/Grove-4-pin-Male-Jumper-to-Grove-4-pin-Conversion-Cable-5-PCs-per-Pack.html)
+    - [4-pin female](https://www.seeedstudio.com/Grove-4-pin-Female-Jumper-to-Grove-4-pin-Conversion-Cable-5-PCs-per-PAck.html)
 * [LocoNet Control Station](https://github.com/positron96/LocoNetControlStation)
 * [DCC Lite](https://github.com/bcsanches/DCCLite/): Includes [LocoNet to WiThrottle Bridge](https://groups.io/g/jmriusers/message/204985)
 * [LocoDuino](https://www.locoduino.org/) ([Google Translate](https://www-locoduino-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp))
@@ -119,7 +125,12 @@
 
 &nbsp;
 
-## Programming Langauges and Environments
+## Development References and Resources
+### Arduino
+* [VSCodium](https://vscodium.com/): A true open source release of Visual Studio Code
+* [Visual Studio Code Extension for Android](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino): Facilitates use of VS Code / VSCodium for Arduino development
+  + [Guide to Configuring for Debugging](https://devblogs.microsoft.com/iotdev/debug-your-arduino-code-with-visual-studio-code/)
+
 ### [Haxe](https://haxe.org/)
 * [Try](https://try.haxe.org/)
 * Setup
