@@ -61,6 +61,7 @@
 
 ### Open Source Software and Command Stations
 * [JMRI](https://jmri.org/)
+  - [JMRI Network Connections](https://www.jmri.org/help/en/html/doc/Technical/Networking.shtml)
 * [DCC++ EX](https://dcc-ex.com/)
 * [IoTT](https://github.com/tanner87661/IoTTStick)
   + Many designes largely built around the [M5Stack M5StickC](https://shop.m5stack.com/products/stick-c?variant=43982750843137)…
