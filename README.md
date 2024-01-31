@@ -108,6 +108,9 @@
 &nbsp;
 
 ## Alternative Decoders and Electronics
+### Arduino-Based DCC Decoders
+* [Arduino DCC Decoder](https://electronics-diy.com/arduino-dcc-decoder.php): Use an Arduino Mini as a DCC decoder
+
 ### WiFi Decoders
 * [WifiTrax](http://www.wifitrax.com/): Control a locomotive directly over WiFi via WiThrottle
 
@@ -128,6 +131,7 @@
 
 ## Development References and Resources
 ### Arduino
+* [evive](https://hackaday.io/project/13091-evive-a-prototyping-platform-for-makers/): A prototyping platform for Arduino MEGA
 * [VSCodium](https://vscodium.com/): A true open source release of Visual Studio Code
 * [Visual Studio Code Extension for Android](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino): Facilitates use of VS Code / VSCodium for Arduino development
   + [Guide to Configuring for Debugging](https://devblogs.microsoft.com/iotdev/debug-your-arduino-code-with-visual-studio-code/)
