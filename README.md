@@ -29,6 +29,7 @@
     - [Command Reference](https://dcc-ex.com/reference/software/command-reference.html)
     - [Technical Reference for Throttle Developers](https://dcc-ex.com/throttles/tech-reference.html)
   + Examples
+    - [DCC++ EX Protocol Library](https://github.com/DCC-EX/DCCEXProtocol/blob/main/src/DCCEXProtocol.cpp#L532)
     - [DCC++ EX Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/DCCEXParser.cpp)
     - [WiThrottle Protocol Parsing](https://github.com/DCC-EX/CommandStation-EX/blob/master/WiThrottle.cpp)
 * LocoNet
