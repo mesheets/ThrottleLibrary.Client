@@ -142,6 +142,10 @@
 * Setup
   + [Haxe C# Backend](https://lib.haxe.org/p/hxcs)
   + [Target .NET Core 2.1 for .NET Standard 2.0 Compatibility](https://devblogs.microsoft.com/dotnet/announcing-net-standard-2-1/)
+  + [.NET Standard Versions Overview](https://dotnet.microsoft.com/en-us/platform/dotnet-standard)
+    - [.NET Standard Versions Detail](https://learn.microsoft.com/en-us/dotnet/standard/net-standard)
+    - [Target Frameworks and Target Framework Monikers (TFMs)](https://learn.microsoft.com/en-us/dotnet/standard/frameworks#supported-target-frameworks)
+  + [Selecting the .NET version to use](https://learn.microsoft.com/en-us/dotnet/core/versions/selection)
 * Components
   + [Task Library: hxbolts](https://lib.haxe.org/p/hxbolts/)
 
