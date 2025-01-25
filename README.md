@@ -139,14 +139,20 @@
 
 ### [Haxe](https://haxe.org/)
 * [Try](https://try.haxe.org/)
-* Setup
+* .NET Support
   + [Haxe C# Backend](https://lib.haxe.org/p/hxcs)
+    - Only supported in Haxe itself though the end of Haxe version 4
+    - Functionality is instead expected to be available via [Reflaxe](https://github.com/SomeRanDev/reflaxe) (c.f. Libraries & Components section below)
   + [Target .NET Core 2.1 for .NET Standard 2.0 Compatibility](https://devblogs.microsoft.com/dotnet/announcing-net-standard-2-1/)
   + [.NET Standard Versions Overview](https://dotnet.microsoft.com/en-us/platform/dotnet-standard)
     - [.NET Standard Versions Detail](https://learn.microsoft.com/en-us/dotnet/standard/net-standard)
     - [Target Frameworks and Target Framework Monikers (TFMs)](https://learn.microsoft.com/en-us/dotnet/standard/frameworks#supported-target-frameworks)
   + [Selecting the .NET version to use](https://learn.microsoft.com/en-us/dotnet/core/versions/selection)
-* Components
+* Libraries & Components
+  + [Reflaxe](https://github.com/SomeRanDev/reflaxe): A framework for creating Haxe language compilation targets using macros
+    - [Reflaxe.CSharp](https://github.com/SomeRanDev/reflaxe.CSharp/): A remake of the Haxe/C# target written entirely within Haxe using Reflaxe
+      - [HaxeLib page](https://lib.haxe.org/p/reflaxe/)
+      - Will require Haxe v5 or higher
   + [Task Library: hxbolts](https://lib.haxe.org/p/hxbolts/)
 
 ### .NET
