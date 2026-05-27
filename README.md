@@ -140,6 +140,7 @@
 ### [Haxe](https://haxe.org/)
 * [Try](https://try.haxe.org/)
 * .NET Support
+  + [New C# Target for Haxe 5 (proposed)](https://github.com/HaxeFoundation/haxe/pull/12575)
   + [Haxe C# Backend](https://lib.haxe.org/p/hxcs)
     - Only supported in Haxe itself though the end of Haxe version 4
     - Functionality is instead expected to be available via [Reflaxe](https://github.com/SomeRanDev/reflaxe) (c.f. Libraries & Components section below)
